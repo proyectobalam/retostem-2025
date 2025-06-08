@@ -1,6 +1,6 @@
 /*
   ============================================================
-   PROYECTO BALAM 2025 – Robofut - motor_test
+   PROYECTO BALAM 2025 – Reto STEM - motor_test
    Universidad Galileo | Grupo Intelecto
   ============================================================
 
@@ -21,7 +21,7 @@
    Versión: 2.0
 
    Organización: https://github.com/proyectobalam
-   Repositorio: https://github.com/proyectobalam/robofut-2025
+   Repositorio: https://github.com/proyectobalam/retostem-2025
   ============================================================
 */
 
